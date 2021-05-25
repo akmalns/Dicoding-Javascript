@@ -1,0 +1,13 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "coba coba hehe",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Akmal Narendra Sakti",
+  "license": "ISC"
+}
